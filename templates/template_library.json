@@ -1,0 +1,76 @@
+{
+  "templates": [
+    {
+      "id": "business",
+      "name": "Profesional Corporativo",
+      "description": "Diseño profesional para comunicaciones corporativas",
+      "primary_color": "#1a5276",
+      "accent_color": "#3498db",
+      "suitable_for": [
+        "negocios",
+        "finanzas",
+        "corporativo",
+        "formal"
+      ],
+      "usage_count": 0
+    },
+    {
+      "id": "academic",
+      "name": "Académico",
+      "description": "Diseño formal para comunicaciones académicas y educativas",
+      "primary_color": "#6b5b95",
+      "accent_color": "#feb236",
+      "suitable_for": [
+        "educación",
+        "investigación",
+        "universidad",
+        "ciencia"
+      ],
+      "usage_count": 0
+    },
+    {
+      "id": "creative",
+      "name": "Creativo",
+      "description": "Diseño dinámico para temas creativos o innovadores",
+      "primary_color": "#26ae60",
+      "accent_color": "#e67e22",
+      "suitable_for": [
+        "arte",
+        "diseño",
+        "innovación",
+        "creativo",
+        "marketing"
+      ],
+      "usage_count": 0
+    },
+    {
+      "id": "technical",
+      "name": "Técnico",
+      "description": "Diseño estructurado para información técnica o detallada",
+      "primary_color": "#34495e",
+      "accent_color": "#f1c40f",
+      "suitable_for": [
+        "tecnología",
+        "ingeniería",
+        "desarrollo",
+        "programación"
+      ],
+      "usage_count": 0
+    },
+    {
+      "id": "newsletter",
+      "name": "Boletín Informativo",
+      "description": "Diseño tipo newsletter para noticias e información",
+      "primary_color": "#e74c3c",
+      "accent_color": "#3498db",
+      "suitable_for": [
+        "noticias",
+        "actualidad",
+        "eventos",
+        "anuncios"
+      ],
+      "usage_count": 0
+    }
+  ],
+  "last_updated": "2025-04-14T20:00:31.601284"
+}

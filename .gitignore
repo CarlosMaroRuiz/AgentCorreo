@@ -1,0 +1,31 @@
+# Entorno virtual
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configuración y entornos
+
+.env
+*.venv
+
+# Archivos de logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas
+.coverage
+.pytest_cache/
+.tox/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,69 @@
+{
+  "tareas_previas": [
+    {
+      "timestamp": "2025-04-14T19:33:28.490613",
+      "descripcion": "\n        Analiza la siguiente información sobre \"que es el software\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "muestra_resultado": "### **Análisis: \"Qué es el software\"**  \n\n#### **1. Aspectos clave**  \n- **Definición**: Conjunto de instrucciones y datos que permiten ejecutar tareas en dispositivos, diferenciándose del hardware por su intangibilidad.  \n- **Tipos principales**:  \n  - **Sistema** (gestión de recursos, ej. Windows).  \n  - **Aplicación** (tareas específicas, ej. Chrome).  \n  - **Programación** (desarrollo de software, ej. Python).  \n  - **Malicioso** (daño o intrusión, ej. ransomware).  \n- **Funciones críticas**",
+      "calificacion_exito": 9,
+      "tema": "que es el software"
+    },
+    {
+      "timestamp": "2025-04-14T20:04:32.360637",
+      "descripcion": "\n        Analiza la siguiente información sobre \"que es el software\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "muestra_resultado": "### **Análisis: \"Qué es el software\"**  \n\n#### **1. Aspectos clave**  \n- **Definición**: Conjunto de instrucciones y datos que permiten ejecutar tareas en dispositivos, diferenciándose del hardware por su naturaleza intangible.  \n- **Tipos principales**:  \n  - *Sistema* (gestión de recursos, ej. Windows).  \n  - *Aplicación* (tareas específicas, ej. Chrome).  \n  - *Programación* (desarrollo de software, ej. Visual Studio Code).  \n  - *Malware* (dañino, ej. ransomware).  \n- **Funciones críticas**:",
+      "calificacion_exito": 9,
+      "tema": "que es el software"
+    },
+    {
+      "timestamp": "2025-04-14T20:16:28.284534",
+      "descripcion": "\n        Analiza la siguiente información sobre \"Las mariposas monorca\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "muestra_resultado": "### **Análisis de las mariposas monarca (*Danaus plexippus*)**  \n\n#### **1. Migración extraordinaria**  \n- **Distancias récord**: La población oriental migra hasta **4,500 km** desde Canadá/EE.UU. a Michoacán (México), una de las rutas más largas en insectos.  \n- **Generaciones especializadas**: Las \"supergeneraciones\" de otoño viven **8 meses** (vs. 2-6 semanas en otras), permitiendo completar el ciclo migratorio.  \n- **Orientación precisa**: Navegan usando un **reloj biológico en sus antenas**",
+      "calificacion_exito": 9,
+      "tema": "Las mariposas monorca"
+    },
+    {
+      "timestamp": "2025-04-14T23:19:37.731757",
+      "descripcion": "\n        Analiza la siguiente información sobre \"Que es una agente de ia\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "muestra_resultado": "### **Análisis: \"Qué es un Agente de IA\"**  \n\n#### **1. Definición y características clave**  \n- **Definición**: Sistema autónomo/semi-autónomo que percibe, procesa y actúa para lograr objetivos, ya sea como software (chatbots) o hardware (robots).  \n- **Características esenciales**:  \n  - Autonomía (operación sin supervisión constante).  \n  - Percepción (sensores o entradas digitales).  \n  - Razonamiento (algoritmos de IA como ML).  \n  - Adaptabilidad (mejora con experiencia).  \n\n#### **2. Func",
+      "calificacion_exito": 9,
+      "tema": "Que es una agente de ia"
+    }
+  ],
+  "resultados_exitosos": [
+    {
+      "descripcion": "\n        Analiza la siguiente información sobre \"que es el software\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "resultado": "### **Análisis: \"Qué es el software\"**  \n\n#### **1. Aspectos clave**  \n- **Definición**: Conjunto de instrucciones y datos que permiten ejecutar tareas en dispositivos, diferenciándose del hardware por su intangibilidad.  \n- **Tipos principales**:  \n  - **Sistema** (gestión de recursos, ej. Windows).  \n  - **Aplicación** (tareas específicas, ej. Chrome).  \n  - **Programación** (desarrollo de software, ej. Python).  \n  - **Malicioso** (daño o intrusión, ej. ransomware).  \n- **Funciones críticas**: Ejecución de procesos, gestión de recursos, interacción usuario-hardware y automatización.  \n- **Evolución histórica**: Desde lenguaje máquina (1940s) hasta IA y cloud computing (siglo XXI).  \n\n#### **2. Datos destacados**  \n- El primer \"bug\" fue literalmente una polilla (1947).  \n- Windows 10 tiene más de 50 millones de líneas de código.  \n- El término \"software\" surgió en 1958 (John Tukey).  \n- El open source (ej. Linux) democratiza el acceso al código.  \n\n#### **3. Organización lógica**  \n1. **Concepto básico** (definición vs. hardware).  \n2. **Clasificación** (tipos y ejemplos concretos).  \n3. **Roles esenciales** (funciones en sistemas informáticos).  \n4. **Contexto histórico y curiosidades** (evolución y datos relevantes).  \n\n#### **4. Ejemplos ilustrativos**  \n- **Sistema operativo**: macOS.  \n- **Aplicación**: Microsoft Excel.  \n- **Malware**: WannaCry.",
+      "tema": "que es el software"
+    },
+    {
+      "descripcion": "\n        Analiza la siguiente información sobre \"que es el software\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "resultado": "### **Análisis: \"Qué es el software\"**  \n\n#### **1. Aspectos clave**  \n- **Definición**: Conjunto de instrucciones y datos que permiten ejecutar tareas en dispositivos, diferenciándose del hardware por su naturaleza intangible.  \n- **Tipos principales**:  \n  - *Sistema* (gestión de recursos, ej. Windows).  \n  - *Aplicación* (tareas específicas, ej. Chrome).  \n  - *Programación* (desarrollo de software, ej. Visual Studio Code).  \n  - *Malware* (dañino, ej. ransomware).  \n- **Funciones críticas**: Ejecución de tareas, gestión de recursos, automatización y comunicación.  \n- **Evolución histórica**: Desde lenguaje máquina (1940s) hasta SaaS y cloud computing (siglo XXI).  \n\n#### **2. Datos destacables**  \n- **Primer \"bug\"**: Documentado por Grace Hopper en 1947 (polilla en Harvard Mark II).  \n- **Impacto económico**: Industria valuada en billones de dólares (Microsoft, Apple, Google).  \n- **Software embebido**: Presente en dispositivos IoT (ej. firmware de electrodomésticos).  \n- **Open source vs. propietario**: Linux (libre) vs. Windows (privativo).  \n\n#### **3. Organización lógica**  \n1. **Concepto básico** (definición y contraste con hardware).  \n2. **Clasificación** (tipos con ejemplos concretos).  \n3. **Roles esenciales** (funciones en sistemas y usuarios).  \n4. **Contexto histórico y curiosidades** (evolución, hitos, impacto económico).  \n\n#### **4. Ejemplos ilustrativos**  \n- *Sistema operativo*: Android.  \n- *Aplicación*: Photoshop.  \n- *Embebido*: Firmware de refrigerador inteligente.  \n\n---  \n*Nota: Análisis basado estrictamente en la información proporcionada, sin añadidos ni interpretaciones externas.*",
+      "tema": "que es el software"
+    },
+    {
+      "descripcion": "\n        Analiza la siguiente información sobre \"Las mariposas monorca\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "resultado": "### **Análisis de las mariposas monarca (*Danaus plexippus*)**  \n\n#### **1. Migración extraordinaria**  \n- **Distancias récord**: La población oriental migra hasta **4,500 km** desde Canadá/EE.UU. a Michoacán (México), una de las rutas más largas en insectos.  \n- **Generaciones especializadas**: Las \"supergeneraciones\" de otoño viven **8 meses** (vs. 2-6 semanas en otras), permitiendo completar el ciclo migratorio.  \n- **Orientación precisa**: Navegan usando un **reloj biológico en sus antenas** y la posición del sol.  \n\n#### **2. Adaptaciones biológicas únicas**  \n- **Defensa química**: Almacenan toxinas (**cardenólidos**) del algodoncillo (*Asclepias*), disuadiendo depredadores.  \n- **Mimetismo ecológico**: La mariposa virrey imita su coloración para protegerse (ejemplo de evolución convergente).  \n- **Agrupaciones masivas**: En invierno, forman colonias de **millones** que cubren árboles en México, reduciendo pérdida de calor.  \n\n#### **3. Amenazas críticas y conservación**  \n- **Hábitat en riesgo**:  \n  - **Deforestación** en bosques de oyamel (México).  \n  - **Reducción del algodoncillo** por herbicidas (ej. glifosato) en EE.UU./Canadá.  \n- **Impacto climático**: Alteración de rutas migratorias y fenología de plantas hospederas.  \n- **Estatus de conservación**: Catalogada como **En Peligro** (UICN, 2022), con iniciativas transnacionales para su protección.  \n\n#### **4. Relevancia científica y cultural**  \n- **Indicador ecológico**: Su declive refleja problemas en polinizadores y biodiversidad.  \n- **Cooperación internacional**: Reconocida como símbolo binacional (Canadá, EE.UU., México) desde 1986.  \n- **Programas ciudadanos**: Proyectos como *Monarch Watch* fomentan jardines de algodoncillo para su reproducción.  \n\n**Dato destacado**: Las monarcas pueden viajar **hasta 120 km por día** durante su migración.",
+      "tema": "Las mariposas monorca"
+    },
+    {
+      "descripcion": "\n        Analiza la siguiente información sobre \"Que es una agente de ia\".\n        \n        INSTRUCCIONES:\n        1. Identifica los 3-4 aspectos más importantes del tema\n        2. Sintetiza la información de forma concisa\n        3. Destaca los datos más interesantes\n        4. Organiza el análisis de forma lógica\n        5. NO añadas información nueva\n        6. NO incluyas frases como \"Como analista...\"\n        \n        {task_1}\n        ",
+      "resultado": "### **Análisis: \"Qué es un Agente de IA\"**  \n\n#### **1. Definición y características clave**  \n- **Definición**: Sistema autónomo/semi-autónomo que percibe, procesa y actúa para lograr objetivos, ya sea como software (chatbots) o hardware (robots).  \n- **Características esenciales**:  \n  - Autonomía (operación sin supervisión constante).  \n  - Percepción (sensores o entradas digitales).  \n  - Razonamiento (algoritmos de IA como ML).  \n  - Adaptabilidad (mejora con experiencia).  \n\n#### **2. Funciones y aplicaciones prácticas**  \n- **Funciones principales**:  \n  - Automatización de tareas repetitivas.  \n  - Interacción humana (lenguaje natural).  \n  - Solución de problemas complejos (ej.: diagnóstico médico).  \n- **Aplicaciones destacadas**:  \n  - Asistentes virtuales (Siri, Alexa).  \n  - Robótica logística (Amazon Kiva).  \n  - Trading algorítmico y análisis de imágenes médicas.  \n\n#### **3. Datos relevantes y curiosidades**  \n- **Impacto**: Reducción de errores humanos en ~40% (McKinsey).  \n- **Tecnología**: Uso de redes neuronales profundas para aprendizaje.  \n- **Historia**: Concepto formalizado en *Artificial Intelligence: A Modern Approach* (1995).  \n- **Tipos**: Agentes reactivos (respuesta inmediata) vs. proactivos (planificación).  \n- **Desafíos éticos**: Privacidad y decisiones autónomas críticas (ej.: vehículos autónomos).  \n\n---  \n**Nota**: La información se organizó en bloques temáticos (definición, funciones, datos clave) sin añadir contenido externo.",
+      "tema": "Que es una agente de ia"
+    }
+  ],
+  "temas": {
+    "que es el software": {
+      "contador": 2,
+      "exito_promedio": 9.0
+    },
+    "Las mariposas monorca": {
+      "contador": 1,
+      "exito_promedio": 9.0
+    },
+    "Que es una agente de ia": {
+      "contador": 1,
+      "exito_promedio": 9.0
+    }
+  },
+  "metricas_rendimiento": {}
+}

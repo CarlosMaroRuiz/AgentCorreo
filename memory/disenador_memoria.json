@@ -1,0 +1,57 @@
+{
+  "tareas_previas": [
+    {
+      "timestamp": "2025-04-14T20:04:32.361983",
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"que es el software\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "muestra_resultado": "# HTML Template: \"Qué es el Software\"\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre qué es el software</title>\n    <style>\n        /* Estilos generales */\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 800px;\n            margin: 0 auto;\n            paddin",
+      "calificacion_exito": 9,
+      "tema": "que es el software"
+    },
+    {
+      "timestamp": "2025-04-14T20:16:28.288568",
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"Las mariposas monorca\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "muestra_resultado": "# HTML Template: \"Las Mariposas Monarca\"\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre el fascinante mundo de las mariposas monarca</title>\n    <style>\n        /* Estilos base */\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            margin: 0;\n            padding: 0;\n     ",
+      "calificacion_exito": 9,
+      "tema": "Las mariposas monorca"
+    },
+    {
+      "timestamp": "2025-04-14T23:19:37.734260",
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"Que es una agente de ia\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "muestra_resultado": "# HTML Template: \"Qué es un Agente de IA\" - Email Educativo\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre qué es un agente de IA</title>\n    <style>\n        /* Estilos base */\n        body {\n            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;\n            line-height: 1.6;\n            color: #333333;\n            margin: 0;\n            padding: 0;\n    ",
+      "calificacion_exito": 9,
+      "tema": "Que es una agente de ia"
+    }
+  ],
+  "resultados_exitosos": [
+    {
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"que es el software\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "resultado": "# HTML Template: \"Qué es el Software\"\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre qué es el software</title>\n    <style>\n        /* Estilos generales */\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            max-width: 800px;\n            margin: 0 auto;\n            paddin...",
+      "tema": "que es el software"
+    },
+    {
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"Las mariposas monorca\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "resultado": "# HTML Template: \"Las Mariposas Monarca\"\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre el fascinante mundo de las mariposas monarca</title>\n    <style>\n        /* Estilos base */\n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            margin: 0;\n            padding: 0;\n     ...",
+      "tema": "Las mariposas monorca"
+    },
+    {
+      "descripcion": "\n        Genera un template HTML personalizado para el correo sobre \"Que es una agente de ia\".\n        Analiza el contenido y selecciona el formato visual más adecuado.\n        \n        INSTRUCCIONES:\n        1. Analiza el tipo de contenido (académico, técnico, corporativo, etc.)\n        2. Selecciona colores y estilos apropiados para el tema\n        3. Estructura el contenido para máxima legibilidad\n        4. Asegura que el diseño sea responsive y profesional\n        5. Destaca elementos clave del contenido\n        \n        {task_3}\n        ",
+      "resultado": "# HTML Template: \"Qué es un Agente de IA\" - Email Educativo\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Descubre qué es un agente de IA</title>\n    <style>\n        /* Estilos base */\n        body {\n            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;\n            line-height: 1.6;\n            color: #333333;\n            margin: 0;\n            padding: 0;\n    ...",
+      "tema": "Que es una agente de ia"
+    }
+  ],
+  "temas": {
+    "que es el software": {
+      "contador": 1,
+      "exito_promedio": 9.0
+    },
+    "Las mariposas monorca": {
+      "contador": 1,
+      "exito_promedio": 9.0
+    },
+    "Que es una agente de ia": {
+      "contador": 1,
+      "exito_promedio": 9.0
+    }
+  },
+  "metricas_rendimiento": {}
+}
